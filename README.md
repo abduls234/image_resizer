@@ -54,4 +54,3 @@ scale_percent = 50  # Resize to 50%
 This project is licensed under the MIT License. Feel free to modify and use it as you wish!
 ```
 
-Just copy and paste this into your GitHub README file!
